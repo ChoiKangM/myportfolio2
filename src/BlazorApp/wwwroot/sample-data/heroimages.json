@@ -1,17 +1,17 @@
 [
   {
-    "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "name": "해달1",
+    "src": "images/sea_otter.jpg",
+    "alt": "해달이는 귀여워"
   },
   {
-    "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "name": "해달2",
+    "src": "images/sea_otter_2.jpg",
+    "alt": "해달이는 사나워"
   },
   {
-    "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "name": "해달3",
+    "src": "images/sea_otter3.jpg",
+    "alt": "해달이는 배고파"
   }
 ]
